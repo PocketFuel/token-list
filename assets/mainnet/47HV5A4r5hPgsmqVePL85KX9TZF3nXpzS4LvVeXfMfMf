@@ -1,0 +1,15 @@
+{
+    "chainId": 101,
+    "address": "47HV5A4r5hPgsmqVePL85KX9TZF3nXpzS4LvVeXfMfMf",
+    "symbol": "PFFNY",
+    "name": "PocketFuel",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/47HV5A4r5hPgsmqVePL85KX9TZF3nXpzS4LvVeXfMfMf/logo.png",
+    "tags": [
+    "community-token", "governance-token", "PFFNY", "PocketFuel.io", "PocketFuel Freelance Network Yields","Decentralized Freelance Network", "DFN", "Initial Liquidity Token"
+    ],
+    "extensions": {
+      "twitter": "https://twitter.com/PocketFuelFounder",
+      "website": "https://www.pocketfuel.io/"
+    }
+}
